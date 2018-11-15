@@ -7,5 +7,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
 target 'A_Category' do
- 
+    
+  pod 'CTMediator', '~> 25'
+   
 end
